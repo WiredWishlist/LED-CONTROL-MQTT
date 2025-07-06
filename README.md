@@ -81,7 +81,7 @@ Type LED ON → to turn ON LED
 Type LED OFF → to turn OFF LED
 
 
-Make sure Retain is unchecked
+Make sure Retain is checked
 
 Click Publish
 
@@ -90,16 +90,5 @@ Click Publish
 ## ✍ Project By
 
 *Akash Sasikumar*  
-Basic IoT Servo Motor Project with Blynk
+Basic MQTT Project
 
-
-
-
-
-Messages are trimmed and case-insensitive (on, ON, LED ON are all accepted).
-
-
-
----
-
-Let me know if you want the README in .md (Markdown) format instead for GitHub.
